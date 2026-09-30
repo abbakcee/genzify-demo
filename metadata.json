@@ -1,0 +1,6 @@
+{
+  "name": "Genzify Cafe",
+  "description": "A fresh, trendy, and aesthetic landing page concept for Genzify Cafe — specialty coffee, brunch, and good vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
